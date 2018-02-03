@@ -1,0 +1,3 @@
+rootProject.name = 'NewestPriyerTime'
+
+include ':app'
