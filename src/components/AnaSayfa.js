@@ -8,6 +8,8 @@ import SehirSec from './SehirSec';
 class Anasayfa extends Component {
 
 
+
+    
     render() {
         console.log('Anasayfa component');
 
